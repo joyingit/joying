@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="javadoc">
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="false" key="notree"/>
+		<item value="true" key="splitindex"/>
+		<item value="D:\java\bin\javadoc.exe" key="javadoc_command_history"/>
+		<item value="true" key="use"/>
+		<item value="false" key="nonavbar"/>
+		<item value="public" key="access"/>
+		<item value="true" key="version"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="true" key="author"/>
+		<item value="" key="docletname"/>
+		<item value="1.3" key="source"/>
+		<item value="false" key="openinbrowser"/>
+		<item value="false" key="noindex"/>
+		<item value="" key="docletpath"/>
+		<item value="true" key="fromStandard"/>
+		<section name="projects">
+		</section>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="608" key="DIALOG_WIDTH"/>
+		<item value="50" key="DIALOG_Y_ORIGIN"/>
+		<item value="502" key="DIALOG_HEIGHT"/>
+		<item value="208" key="DIALOG_X_ORIGIN"/>
+		<item value="1|宋体|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|宋体" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>
